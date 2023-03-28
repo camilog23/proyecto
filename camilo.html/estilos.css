@@ -1,0 +1,19 @@
+.contenedor1{
+    
+    background-color: green;
+    border-radius: 20px;
+    
+    
+}
+
+body{
+    font-family: 'Delicious Handrawn', cursive;
+   background-color:rgba(0, 0, 0, 0.123);
+   
+}
+.numero1{
+    position: relative;
+    left: 90%;
+    top: -100px;
+ }
+
